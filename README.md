@@ -20,34 +20,6 @@ Key components include:
 - **Framework**: Qt
 - **APIs**: Various APIs for geolocation and traffic information
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/navigateur-urbain.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd navigateur-urbain
-   ```
-
-3. Install dependencies:
-   Follow the instructions in the `INSTALL.md` or the project's documentation to install all necessary dependencies for C++ and Qt.
-
-4. Configure the API keys in the `.env` file or configuration files as required.
-
-5. Build the project:
-   ```bash
-   qmake
-   make
-   ```
-
-6. Run the application:
-   ```bash
-   ./navigateur-urbain
-   ```
-
 ## Resources
 
 - **Qt Documentation**: [Qt Documentation](https://doc.qt.io/)
